@@ -1,0 +1,1 @@
+### Darslikdagi ma'lumotchalar
