@@ -15,9 +15,13 @@ def son(a,b):
     else:
        print("amalda xatolik bor")                             
 son(a,b) 
+
+
 while a < b:
     print(a)
     a += 1 
+
+    
 while a > b:
     print(b)
     b += 1   
